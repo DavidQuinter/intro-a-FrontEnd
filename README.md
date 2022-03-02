@@ -1,2 +1,2 @@
-# intro-a-FrontEnd
+# Launchx - Semana1
 Practicas frontend 
