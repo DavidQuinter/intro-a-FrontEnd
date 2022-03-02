@@ -7,4 +7,21 @@ Descripción: Es un despacho de abogados que quiere automatizar las demandas de 
 #Bosquejo de la app: 
 **Usuario:**
 El usuario tendrá dos opciones, una en la que tiene una cuenta y podrá ingresar o en la que deberá crear una cuenta. Una vez dento, si se está creando una cuenta el usuario deberá llenar un formulario que lo ayudará a buscar el mejor abogado que se adecue a su caso, una vez se le halla asignado un abogado, el usario podrá consultar el estatus de la demanda, fechas importantes en el calendario como reuniones, llamadas, juicio, etc... A su vez tambien podrá ver las notificaciones del caso, podrá enviar mensajes al abogado, subir documentos que se le soliciten, entrar a su perfil y consultar el abogado asignado, etc...
-**Administrador**
+<h3>Administrador.</h3>
+
+<h6>El administrador podrá ver los casos que se le lleguén a asignar y podrá escoger alguno, a demas podrá subir actualizaciones detalladas del avance del caso y tambien podrá porgramar fechas para las actividades que se lleguen a requerir. El administrador tambien podrá envíar notificaciones pequeñas, mensajes, solicitar documentos y consultar la base de datos de los documentos, a demanas podrá entrar a su perfil para consultar la informacion del cliente y modificar su propia información.</h6>
+
+<h3>Requerimentos.</h3>
+<div>
+	<ol>
+		<li>Sistema Sign in y Sign Up</li>
+		<li>Formulario de demanda</li>
+		<li>Proceso de pago</li>
+		<li>Seguimiento del proceso</li>
+		<li>Pagos reflejados en un dashboard</li>
+		<li>Actualizaciones del proceso</li>
+		<li>Envio de mensajes</li>
+		<li>Paguina responsive</li>
+		<li>Creación de documento legal automatico.</li>
+	</ol>
+</div>
