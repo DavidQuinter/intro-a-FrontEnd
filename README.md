@@ -13,15 +13,17 @@ Descripción: Es un despacho de abogados que quiere automatizar las demandas de 
 
 <h3>Requerimentos.</h3>
 <div>
-	<ol>
-		<li>Sistema Sign in y Sign Up</li>
-		<li>Formulario de demanda</li>
-		<li>Proceso de pago</li>
-		<li>Seguimiento del proceso</li>
-		<li>Pagos reflejados en un dashboard</li>
-		<li>Actualizaciones del proceso</li>
-		<li>Envio de mensajes</li>
-		<li>Paguina responsive</li>
-		<li>Creación de documento legal automatico.</li>
-	</ol>
+	<h6>
+		<ol>
+			<li>Sistema Sign in y Sign Up</li>
+			<li>Formulario de demanda</li>
+			<li>Proceso de pago</li>
+			<li>Seguimiento del proceso</li>
+			<li>Pagos reflejados en un dashboard</li>
+			<li>Actualizaciones del proceso</li>
+			<li>Envio de mensajes</li>
+			<li>Paguina responsive</li>
+			<li>Creación de documento legal automatico.</li>
+		</ol>
+	</h6>
 </div>
